@@ -1,1 +1,83 @@
+.colored-section{
+    background-color: #6739B6;
+    color: white;
+}
+body {
+    font-family: "Montserrat";
+    text-align: center;
+  }
+.navbar a{
+
+    color: white;
+    
+    
+}
+#title {
+    text-align: left;
+}
+.push-right{
+    justify-content: flex-end;
+}
+.nav-link{
+    padding-right: 30px!important;
+    padding-left: 30px!important;
+}
+.image-iphone{
+    width: 20%;
+    right: 20%;
+    position: absolute;
+    transform: rotate(20deg);
+}
+
+.container-fluid{
+    padding: 1% 10% 9%;
+  }
+  .navbar{
+    padding: 0 0 4.5rem;
+  }
+  .big-heading {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 3rem;
+    line-height: 1.5;
+  }
+  .download-button {
+    margin: 5% 3% 5% 0;
+  }
+#features{
+    padding: 4% 15%;
+}
+h3{
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 35px;
+}
+.spacer{
+    margin: 0 10px;
+    box-shadow: 0px 49px 40px rgba(50, 50, 71, 0.05);
+    padding: 10%;
+  }
+.spacer img{
+    width: 64px;
+    height: auto;
+}
+h2{
+    padding-top: 4%;
+    padding-bottom: 2%;
+}
+.roundedimg{
+    border-radius: 100%;
+    width: 100px;
+    height: auto;
+}
+.grey-section p{
+    padding: 1%;
+}
+.press-img{
+    width: 150px;
+    margin: 2%;
+}
+.grey-section{
+    background-color: gainsboro;
+}
 
